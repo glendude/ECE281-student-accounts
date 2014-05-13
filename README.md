@@ -62,6 +62,8 @@ Link to accounts for ECE281 students.
 
 ## Faculty
 
-|----------|------------|
+
+|Name|Link URL|
+|---|---|
 | [Glen Dudevoir] |  (https://github.com/glendude)|
 |----------|------------|
