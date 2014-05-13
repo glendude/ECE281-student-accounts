@@ -65,5 +65,5 @@ Link to accounts for ECE281 students.
 
 |Name|Link URL|
 |---|---|
-| [Glen Dudevoir] |  (https://github.com/glendude)|
+| [Glen Dudevoir]   (https://github.com/glendude)| |
 |----------|------------|
