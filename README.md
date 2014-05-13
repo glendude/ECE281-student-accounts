@@ -60,4 +60,8 @@ Link to accounts for ECE281 students.
 - [Nathan Ruprecht] (https://github.com/NathanRuprecht/ECE281_CE1)
 - [Brian Yarbrough](https://github.com/byarbrough)
 
-- [Glen Dudevoir] (https://github.com/glendude)
+## Faculty
+
+:----------:------------:
+: [Glen Dudevoir] :  (https://github.com/glendude):
+:----------:------------:
